@@ -52,4 +52,9 @@
   - Fixed [#19944](https://github.com/MetaMask/metamask-extension/pull/19944)
     - Issue: Misaligned icons in 'Connected Sites' dropdown menu.
     - Solution: Replaced a deprecated UI component with newer shared component.
+    - [Helped another contributor get started on their first issue.](https://github.com/MetaMask/metamask-extension/issues/19901#issuecomment-1631045017)
 </details>
+
+&nbsp;
+
+<h3>Nice Credenza</h3>
