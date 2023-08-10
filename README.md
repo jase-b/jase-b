@@ -34,13 +34,22 @@
     ...and counting.
   </p>
   <p>↯</p>
-  <p>
-    Most of my the things I've built and fixed are in the repos of companies I've worked for. 😑
-  </p>
-  <p>
-    I'm trying to change that. This README's a pretty good start, no?
-  </p>
-  <p>
-    
-  </p>
+  &nbsp;
 </div>
+
+<h1>Things I've worked on...</h1>
+
+<h3>MetaMask</h3>
+
+<details open>
+  <summary>Open-Source Contributions</summary>
+  
+  &nbsp;
+  - Fixing [#20432](https://github.com/MetaMask/metamask-extension/pull/20432)
+    - Issue: 'Decrypt Request' view only shows part of a long decrypted message.
+    - Solution: Allow the decryted message box to be scrollable.
+  
+  - Fixed [#19944](https://github.com/MetaMask/metamask-extension/pull/19944)
+    - Issue: Misaligned icons in 'Connected Sites' dropdown menu.
+    - Solution: Replaced a deprecated UI component with newer shared component.
+</details>
