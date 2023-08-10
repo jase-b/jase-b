@@ -37,7 +37,7 @@
   &nbsp;
 </div>
 
-<h1>Things I've worked on...</h1>
+<h1>Proof of Work</h1>
 
 <h3>MetaMask</h3>
 
