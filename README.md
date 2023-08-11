@@ -17,21 +17,13 @@
   </p>
   <p>~</p>
   <p>
-    Currently, I can code things in...
+    I'm most experienced in React based front-end systems.
   </p>
-  &nbsp;
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50px"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="50px"/>
-  </div>
-  &nbsp;
   <p>
-    ...and counting.
+    Currently, I can code things in <b>HTML & CSS</b>, <b>JavaScript</b>, <b>TypeScript</b>, <b>node.js</b>, <b>Python</b>, and <b>Solidity.</b>
+  </p>
+  <p>
+    Wanna see?
   </p>
   <p>↯</p>
   &nbsp;
