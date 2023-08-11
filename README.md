@@ -55,3 +55,10 @@
   
   - I updated the driver's license upload experience to a newer, simpler design scheme. ([Demo](https://github.com/jase-b/carvana-ui-demo/tree/main/drivers-license-upload#carvana-ui-demo) | [Code](https://github.com/jase-b/carvana-ui-demo/tree/main/drivers-license-upload))
 
+&nbsp;
+
+<h3>Nice Credenza</h3>
+
+  - Nice Credenza was a Shopify store that sold credenzas, sideboards, buffets, and other storage-like home furnishings.
+
+  - I designed and implemented the Aboout page. ([Design | [Code](https://github.com/jase-b/nice-credenza/tree/master)](https://github.com/jase-b/nice-credenza/blob/master/README.md#design-for-about-page))
