@@ -17,7 +17,7 @@
   </p>
   <p>~</p>
   <p>
-    I'm mostly experienced in React based front-end systems.
+    I'm mostly experienced in React/Redux front-end systems. I'm getting better at back-end systems.
   </p>
   <p>
     Currently, I can code things in <b>HTML & CSS</b>, <b>JavaScript</b>, <b>TypeScript</b>, <b>node.js</b>, <b>Python</b>, and <b>Solidity.</b>
