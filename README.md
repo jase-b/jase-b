@@ -57,7 +57,7 @@
 
   - In Carvana's income verification flow, a user is expected to upload proof of income documention. I implemented the UI/UX responsible for capturing those documents. ([Demo](https://github.com/jase-b/carvana-ui-demo#in-carvanas-income-verification-flow-a-user-is-expected-to-upload-proof-of-income-documention-i-implemented-the-uiux-currently-used-to-capture-those-documents-see-the-code) | [Code](https://github.com/jase-b/carvana-ui-demo/tree/main/pay-stub-upload))
   
-  - I updated the driver's license upload experience to a newer, simpler design scheme. ([Demo](https://github.com/jase-b/carvana-ui-demo/tree/main/drivers-license-upload#carvana-ui-demo) | [Code](https://github.com/jase-b/carvana-ui-demo/tree/main/drivers-license-upload))
+  - I implemented the newer, simpler design for the driver's license upload experience. ([Demo](https://github.com/jase-b/carvana-ui-demo/tree/main/drivers-license-upload#carvana-ui-demo) | [Code](https://github.com/jase-b/carvana-ui-demo/tree/main/drivers-license-upload))
 
 &nbsp;
 
