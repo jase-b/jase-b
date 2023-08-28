@@ -37,15 +37,15 @@
   <summary>Open-Source Contributions</summary>
   
   &nbsp;
-  - Fixing [#20579](https://github.com/MetaMask/metamask-extension/pull/20579)
+  - [#20579](https://github.com/MetaMask/metamask-extension/pull/20579)
     - Issue: `<Chip/>` has been deprecated in favor of `<Tag/>`.
     - Solution: Add deprecation warnings for `<Chip/>` to its JSDocs and Storybook.
   
-  - Fixing [#20432](https://github.com/MetaMask/metamask-extension/pull/20432)
+  - [#20432](https://github.com/MetaMask/metamask-extension/pull/20432)
     - Issue: 'Decrypt Request' view only shows part of a long decrypted message.
     - Solution: Allow the decryted message box to be scrollable.
   
-  - Fixed [#19944](https://github.com/MetaMask/metamask-extension/pull/19944)
+  - [#19944](https://github.com/MetaMask/metamask-extension/pull/19944)
     - Issue: Misaligned icons in 'Connected Sites' dropdown menu.
     - Solution: Replaced a deprecated UI component with newer shared component.
     - [Helped another contributor get started on their first issue.](https://github.com/MetaMask/metamask-extension/issues/19901#issuecomment-1631045017)
