@@ -31,6 +31,11 @@
   <summary>Open-Source Contributions</summary>
   
   &nbsp;
+  - [#20701](https://github.com/MetaMask/metamask-extension/pull/20701)
+    - Issue: `<ConfirmationNetworkSwitch/>` contains deprecated components.
+    - Solution: Replace `<Box/>`, `<Typography/>`, & `<SiteIcon/>` with counterparts from `component-library`.
+    - [Discovered reason for failed attempts at updating UI snapshots for Jest tests.](https://github.com/MetaMask/metamask-extension/pull/20701#issuecomment-1744033518)
+  
   - [#20579](https://github.com/MetaMask/metamask-extension/pull/20579)
     - Issue: `<Chip/>` has been deprecated in favor of `<Tag/>`.
     - Solution: Add deprecation warnings for `<Chip/>` to its JSDocs and Storybook.
