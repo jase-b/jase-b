@@ -83,4 +83,4 @@
 
   - Nice Credenza was a Shopify store that sold credenzas, sideboards, buffets, and other storage-like home furnishings.
 
-  - I designed and implemented the Aboout page. ([Design](https://github.com/jase-b/nice-credenza#design-for-about-page) | [Code](https://github.com/jase-b/nice-credenza/tree/master))
+  - I designed and implemented the About page. ([Design](https://github.com/jase-b/nice-credenza#design-for-about-page) | [Code](https://github.com/jase-b/nice-credenza/tree/master))
