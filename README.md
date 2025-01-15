@@ -25,6 +25,25 @@
 
 <h1>Proof of Work</h1>
 
+<h3>NaviStats</h3>
+
+  - A subscription-based web platform that provides reporting and tracking tools for companies in the real estate title industry. NaviStats is comprised of the two applications: TitleTrak and AgentMap.
+
+    <h4>Challenges & Achievements</h4>
+
+    - The NaviStats marketing website ([navistats.com](https://navistats.com/)) is a WordPress site. The actual NaviStats web application ([navistats.com/dashboard](https://navistats.com/dashboard)) is a React application served from the NaviStats WordPress domain.
+      This required solutions for some unique issues created by the WordPress-React relationship. For example:
+
+      <h4><b>Special route handling</b></h4>
+
+      <h4><b>WordPress Metadata API for simple data storage</b></h4>
+
+      <h4><b>Instrusive UI when logged in as WordPress admin</b></h4>
+
+      <h4><b>No option for server-side rendering</b></h4>
+
+&nbsp;
+
 <h3>MetaMask</h3>
 
 <details open>
