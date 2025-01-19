@@ -31,10 +31,12 @@
 
     <h4>Challenges & Achievements</h4>
 
-    - The NaviStats marketing website ([navistats.com](https://navistats.com/)) is a WordPress site. The actual NaviStats web application ([navistats.com/dashboard](https://navistats.com/dashboard)) is a React application served from the NaviStats WordPress domain.
+    - The NaviStats marketing website ([navistats.com](https://navistats.com/)) is a WordPress site. The actual NaviStats web application ([navistats.com/dashboard](https://navistats.com/dashboard)) is a React application served from the NaviStats WordPress site using the [ReactPress](https://wordpress.org/plugins/reactpress/) plugin.
       This required solutions for some unique issues created by the WordPress-React relationship. For example:
 
       <h4><b>Special route handling</b></h4>
+
+        Wordpress matches the URL path segments to resources on its server. 
 
       <h4><b>WordPress Metadata API for simple data storage</b></h4>
 
