@@ -2,9 +2,6 @@
   <h1>
     Oh, hai! 🖖 I'm Jase.
   </h1>
-  <p>
-    ( <i>like 'Jason' without the 'on'</i> )
-  <p>
   ~
   <p>
     I make stuff for the web using electricity 🔌 and an Apple 🍎💻.
