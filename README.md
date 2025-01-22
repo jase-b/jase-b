@@ -28,12 +28,17 @@
 
     <h4>Challenges & Achievements</h4>
 
-    - The NaviStats marketing website ([navistats.com](https://navistats.com/)) is a WordPress site. The actual NaviStats web application ([navistats.com/dashboard](https://navistats.com/dashboard)) is a React application served from the NaviStats WordPress site using the [ReactPress](https://wordpress.org/plugins/reactpress/) plugin.
+    - The NaviStats marketing website ([navistats.com](https://navistats.com/)) is a WordPress site. The actual NaviStats web application, navistats.com/dashboard, is a React application served from the NaviStats WordPress site using the [ReactPress](https://wordpress.org/plugins/reactpress/) plugin.
       This required solutions for some unique issues created by the WordPress-React relationship. For example:
 
       <h4><b>Special route handling</b></h4>
 
-        Wordpress matches the URL path segments to resources on its server. 
+        - WordPress handles URL routing by matching URL path segments to WordPress Pages. This includes routing users to the NaviStats Dashboard page (/dashboard) which loads the React application.
+          But there's a limitation with the Dashboard's ability to handle routing operations using a tool like `react-router`.
+
+          For example, if I wanted to show in the user's URL that AgentMap is currenlty loaded, I ideally would like the URL to read as navistats.com/dashboard/agent-map. However, this will not work as intended. The WordPress router will attempt to load a WP Page that's assigned to the /agent-map route, which doesn't exist. React will never get the chance to load and control the routing to the React-based AgentMap and TitleTrak applications.
+
+          In order to allow some kind of URL customization that represented a user's current application and application state, I decided to leverage the search parameter component of a URL. 
 
       <h4><b>WordPress Metadata API for simple data storage</b></h4>
 
