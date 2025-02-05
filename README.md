@@ -38,7 +38,7 @@
 
     - <h4>Customized Date Range Picker</h4>
 
-      Builds upon Material UI's [Date Range Picker](https://mui.com/x/react-date-pickers/date-range-picker/#customize-the-field) component. Leverages the feature to easily select commonly used date ranges. ([Code](https://github.com/jase-b/navistats-ui-demo/tree/master/DateRangeFilter))
+      Builds upon Material UI's [Date Range Picker](https://mui.com/x/react-date-pickers/date-range-picker/#customize-the-field) component. It leverages the feature to easily select commonly used date ranges. ([Code](https://github.com/jase-b/navistats-ui-demo/tree/master/DateRangeFilter))
 
       https://github.com/user-attachments/assets/cd5e1ab3-04b1-4b5d-b295-8efc2c6bb807
 
@@ -46,7 +46,7 @@
 
     - <h4>A React App Hosted on WordPress</h4>
     
-    - The NaviStats marketing website ([navistats.com](https://navistats.com/)) is a WordPress site. The actual NaviStats web application, navistats.com/dashboard, is a React application served from the NaviStats WordPress site using the [ReactPress](https://wordpress.org/plugins/reactpress/) plugin.
+      The NaviStats marketing website ([navistats.com](https://navistats.com/)) is a WordPress site. The actual NaviStats web application, navistats.com/dashboard, is a React application served from the NaviStats WordPress site using the [ReactPress](https://wordpress.org/plugins/reactpress/) plugin.
       This required solutions for some unique issues created by the WordPress-React relationship. For example:
 
       <h4><b>Special route handling</b></h4>
