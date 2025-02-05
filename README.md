@@ -22,11 +22,17 @@
 
 <h1>Proof of Work</h1>
 
-<h3>NaviStats</h3>
+<h2>NaviStats</h2>
 
   - A subscription-based web platform that provides reporting and tracking tools for companies in the real estate title industry. NaviStats is comprised of the two applications: TitleTrak and AgentMap.
 
-    <h4>Challenges & Achievements</h4>
+    <h3>Challenges & Achievements</h3>
+
+    - <h4>Customized Date Range Picker</h4>
+
+      Builds upon Material UI's [Date Range Picker](https://mui.com/x/react-date-pickers/date-range-picker/#customize-the-field) component. Leverages the feature to easily select commonly used date ranges.
+
+      https://github.com/user-attachments/assets/cd5e1ab3-04b1-4b5d-b295-8efc2c6bb807
 
     - The NaviStats marketing website ([navistats.com](https://navistats.com/)) is a WordPress site. The actual NaviStats web application, navistats.com/dashboard, is a React application served from the NaviStats WordPress site using the [ReactPress](https://wordpress.org/plugins/reactpress/) plugin.
       This required solutions for some unique issues created by the WordPress-React relationship. For example:
@@ -48,7 +54,7 @@
 
 &nbsp;
 
-<h3>MetaMask</h3>
+<h2>MetaMask</h2>
 
 <details open>
   <summary>Open-Source Contributions</summary>
@@ -75,7 +81,7 @@
 
 &nbsp;
 
-<h3>Carvana</h3>
+<h2>Carvana</h2>
 
   - In Carvana's income verification flow, a user is expected to upload proof of income documention. I implemented the UI/UX responsible for capturing those documents. ([Demo](https://github.com/jase-b/carvana-ui-demo#in-carvanas-income-verification-flow-a-user-is-expected-to-upload-proof-of-income-documention-i-implemented-the-uiux-currently-used-to-capture-those-documents-see-the-code) | [Code](https://github.com/jase-b/carvana-ui-demo/tree/main/pay-stub-upload))
   
@@ -83,7 +89,7 @@
 
 &nbsp;
 
-<h3>Nice Credenza</h3>
+<h2>Nice Credenza</h2>
 
   - Nice Credenza was a Shopify store that sold credenzas, sideboards, buffets, and other storage-like home furnishings.
 
