@@ -58,8 +58,6 @@
 
           In order to allow some kind of URL customization that represented a user's current application and application state, I decided to leverage the search parameter component of a URL. 
 
-      <h4><b>WordPress Metadata API for simple data storage</b></h4>
-
       <h4><b>Instrusive UI when logged in as WordPress admin</b></h4>
 
       <h4><b>No option for server-side rendering</b></h4>
